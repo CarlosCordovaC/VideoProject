@@ -50,4 +50,4 @@ The rebuild focused on three things:
 ## 👤 Author
 **Carlos Camberos**
 - GitHub: [@CarlosCordovaC](https://github.com/CarlosCordovaC)
-- Email: ccordova@brightcove.com
+- Email: carloscordovac@outlook.es
