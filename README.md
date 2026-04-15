@@ -47,6 +47,11 @@ The rebuild focused on three things:
 - [ ] Seek bar — drag to skip forward/backward
 - [ ] Grid view to browse videos
 
+## 📸 Demo
+[![Demo Video](https://img.youtube.com/vi/NxpaHXtrUto/maxresdefault.jpg)](https://youtube.com/shorts/NxpaHXtrUto)
+> Click the image to watch the full demo
+
+
 ## 👤 Author
 **Carlos Camberos**
 - GitHub: [@CarlosCordovaC](https://github.com/CarlosCordovaC)
